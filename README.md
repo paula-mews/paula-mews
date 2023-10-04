@@ -21,6 +21,6 @@ After more than a decade dedicated to Recruitment and hard-to-fill IT roles, I'm
 - [Email](mailto:pgomez.techtalent@gmail.com)
 
 ### Favourite plan in the world
-![IMG_20221022_182349_088_1](https://github.com/pgg89/README/assets/79692339/2f5d0987-82a2-4d34-b965-1a54eeb526dd)
+![IMG_20221022_182349_088_1](https://github.com/pgg89/pgg89/assets/79692339/18baa25c-55e6-46ee-a847-482f1d8fd535)
 
 *<p align="center"> Thanks for reading!*
