@@ -3,7 +3,7 @@
 ### About me
 💙 Loving recruitment since 2012 | 🌎 Wanderlust soul | 😻 Pets lover | 🏡 Remote first
 ### What I do?
-After more than a decade dedicated to Recruitment and hard-to-fill IT roles, I would like to focus my career on Recruitment Operations and how to improve recruitment processes and candidate experience. **YES**, I can say I love challenges!
+After more than a decade dedicated to 360 Talent Acquisition, I’d like to focus my career on my passion: Recruitment Operations improving recruitment processes and candidate experience, as well as keeping an eye on sourcing and candidate engagement. **YES**, I can say I love challenges!
 
 **Top skills:** Time Management, Quality, high work ethic, Analytical, Collaborative, Adaptability.  
 
