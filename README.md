@@ -3,7 +3,7 @@
 ### About me
 💙 Loving recruitment since 2012 | 🌎 Wanderlust soul | 😻 Pets lover | 🏡 Remote first  | 🌲 ESG fan
 ### What I do?
-After more than a decade dedicated to 360 Talent Acquisition, I'm passionate about Recruitment Operations, improving recruitment processes and candidate experience, as well as keeping an eye on sourcing and candidate engagement. **YES**, I can say I love challenges!
+After more than a decade dedicated to 360 Talent Acquisition, I found my passion about Recruitment Operations, improving recruitment processes and candidate experience, as well as keeping an eye on sourcing and candidate engagement. **YES**, I can say I love challenges!
 
 **Top skills:** Time Management, Quality, high work ethic, Attention to detail, Team Collaboration.  
 
