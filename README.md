@@ -3,13 +3,13 @@
 ### About me
 💙 Loving recruitment since 2012 | 🌎 Wanderlust soul | 😻 Pets lover | 🏡 Remote first  | 🌲 ESG fan
 ### What I do?
-After more than a decade dedicated to 360º Talent Acquisition, I’m focusing my career on my passion: Recruitment Operations, improving recruitment processes and candidate experience, as well as keeping an eye on sourcing and candidate engagement. <br> **YES**, I can say I love challenges!
+After more than a decade dedicated to full-cycle recruiting, I’m focusing my career on my passion: Recruitment Operations, improving recruitment processes and candidate experience, as well as keeping an eye on sourcing and candidate engagement. <br> **YES**, I can say I love challenges!
 
-**Top skills:** Time Management, Quality, high work ethic, Attention to detail, Team Collaboration.  
+**Top skills:** Time Management, Quality, High work ethic, Detail-oriented, Collaborative, Continuous learner.
 
-**Keywords:** Sourcing, Data-driven, Candidate Experience, Best Practices, Fluent English, Native Spanish.
+**Keywords:** Sourcing, Data-driven, Candidate Experience, Best Practices, Employer Branding, Fluent English, Native Spanish.
 
-**Favourite tools:** Greenhouse, Lever, Amazing Hiring, Talent Wall, SeekOut, Miro, Lucidchart
+**Expertise:** Greenhouse, Lever, LinkedIn Recruiter, Amazing Hiring, Talent Wall, SeekOut, Entelo, Miro, Lucidchart.
 
 **[CV / Resume](https://www.linkedin.com/in/gomezpaula/)**
 
