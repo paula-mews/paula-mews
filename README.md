@@ -1,7 +1,7 @@
 # Hi, I'm Paula 👋
 ## Talent Acquisition Specialist
 ### About me
-💙 Loving recruitment since 2012 | 🌎 Wanderlust soul | 😻 Pets lover | 🏡 Remote first  | 🌲 ESG fan
+💙 Loving Talent Acquisition since 2012 | 🌎 Wanderlust soul | 😻 Pets lover | 🏡 Remote first  | 🌲 ESG fan
 ### What I do?
 After more than a decade dedicated to full-cycle recruiting, I’m focusing my career on my passion: Recruitment Operations, improving recruitment processes and candidate experience, as well as keeping an eye on sourcing and candidate engagement. <br> **YES**, I can say I love challenges!
 
