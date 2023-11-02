@@ -5,7 +5,7 @@
 ### What I do?
 After more than a decade dedicated to full-cycle recruiting, I’m focusing my career on my passion for Recruitment Operations: optimizing recruitment processes, building the best candidate experience, delivering awesome sourcing strategies, and boosting candidate engagement. **YES**, I can say I love challenges!
 
-**Top skills:** Time Management, Quality, High work ethic, Detail-oriented, Collaborative, Continuous learner.
+**Top skills:** Time efficiency, Quality, High work ethic, Detail-oriented, Collaborative, Continuous learner.
 
 **Keywords:** Sourcing, Data-driven, Candidate Experience, Best Practices, Employer Branding, Fluent English, Native Spanish.
 
