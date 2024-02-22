@@ -9,11 +9,12 @@ Mews is a disruptive tech leader, pioneering the hospitality systems of the futu
 ⭐ [Best PMS 2024 at the HotelTechAwards](https://www.mews.com/en/blog/mews-best-pms-hotel-tech-report-awards)  
 ⭐ [Best places to work in Hotel Tech 2024](https://hoteltechreport.com/news/best-places-to-work-2024)  
 
+### R&D at Mews
 **[Careers](https://www.mews.com/en/careers/jobs)**   
 **[Platform Documentation](https://www.mews.com/en/platform-documentation)**   
-[Engineering Blog](https://developers.mews.com/blog/)  
-[Mews Devs Youtube](https://www.youtube.com/channel/UCrepPB-0Yryop41OuQbQR3w)  
-[R&D Mews News](https://www.linkedin.com/company/mewsrnd/)  
+**[Engineering Blog](https://developers.mews.com/blog/)**  
+**[Mews Devs Youtube](https://www.youtube.com/channel/UCrepPB-0Yryop41OuQbQR3w)**   
+**[R&D Mews News](https://www.linkedin.com/company/mewsrnd/)**  
 
 ### Mews values
 **A**mbitius ⛰️  
