@@ -1,26 +1,30 @@
 # Hi, I'm Paula 👋
-## Talent Acquisition Specialist
+## Senior Recruiter R&D @[Mews](https://www.mews.com/en)
 ### About me
 💙 Loving Talent Acquisition since 2012 | 🌎 Wanderlust soul | 😻 Pets lover | 🏡 Remote first  | 🌲 ESG fan
-### What I do?
 After more than a decade dedicated to full-cycle recruiting, I’m focusing my career on my passion for Recruitment Operations: optimizing recruitment processes, building the best candidate experience, delivering awesome sourcing strategies, and boosting candidate engagement. **YES**, I can say I love challenges!
 
-**Top skills:** Time efficiency, Quality, High work ethic, Detail-oriented, Collaborative, Continuous learner.
+### About Mews
+Mews is a disruptive tech leader, pioneering the hospitality systems of the future. We are simplifying and automating all operations cloud based for modern hoteliers and their guests. From the booking engine to check-out, from front desk to revenue management, every process is easier, faster and more connected.
+⭐ [Best PMS 2024 at the HotelTechAwards](https://www.mews.com/en/blog/mews-best-pms-hotel-tech-report-awards)
+⭐ [Best places to work in Hotel Tech 2024](https://hoteltechreport.com/news/best-places-to-work-2024)
 
-**Keywords:** Sourcing, Data-driven, Candidate Experience, Best Practices, Employer Branding, Fluent English, Native Spanish.
+[Careers](https://www.mews.com/en/careers/jobs)
+[Platform Documentation](https://www.mews.com/en/platform-documentation)
+[Engineering Blog](https://developers.mews.com/blog/)
+[Mews Devs Youtube](https://www.youtube.com/channel/UCrepPB-0Yryop41OuQbQR3w)
+[R&D Mews News](https://www.linkedin.com/company/mewsrnd/)
 
-**Expertise:** Greenhouse, Lever, LinkedIn Recruiter, Amazing Hiring, Talent Wall, SeekOut, Entelo, Miro, Lucidchart.
+### Mews values
+**A**mbitius 
+**R**esilient    
+**C**urious
+**H**uman
+**O**pen
 
-**[CV / Resume](https://www.linkedin.com/in/gomezpaula/)**
-
-### Values I like to share
-**Q**uality 🏆  
-**F**reshness 🌱   
-**P**roximity 👐
-
-### How to reach me?
+### Would you like to hear more about Mews?
 - [LinkedIn](https://www.linkedin.com/in/gomezpaula/)  
-- [Email](mailto:pgomez.techtalent@gmail.com)
+- [Email](mailto:paula.gomez@mews.com)
 
 ### Favourite plan in the world
 ![IMG_20221022_182349_088_1](https://github.com/pgg89/pgg89/assets/79692339/18baa25c-55e6-46ee-a847-482f1d8fd535)
