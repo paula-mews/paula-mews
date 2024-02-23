@@ -14,8 +14,9 @@ Mews is a disruptive tech leader, pioneering the hospitality systems of the futu
 - **[Platform Documentation](https://www.mews.com/en/platform-documentation)**   
 - **[Engineering Blog](https://developers.mews.com/blog/)**  
 - **[Mews Devs Youtube](https://www.youtube.com/channel/UCrepPB-0Yryop41OuQbQR3w)**   
-- **[R&D Mews News](https://www.linkedin.com/company/mewsrnd/)**  
-
+- **[R&D Mews News](https://www.linkedin.com/company/mewsrnd/)**
+- **[Careers](https://www.mews.com/en/careers/jobs)**   
+- **[Glassdoor reviews](https://www.glassdoor.com/Overview/Working-at-Mews-EI_IE2600502.11,15.htm)**  
 ### Mews values
 **A**mbitius ⛰️  
 **R**esilient 💪       
