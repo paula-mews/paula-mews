@@ -14,8 +14,16 @@ Mews is a disruptive tech leader, pioneering the hospitality systems of the futu
 - **[Engineering Blog](https://developers.mews.com/blog/)**  
 - **[Mews Devs Youtube](https://www.youtube.com/channel/UCrepPB-0Yryop41OuQbQR3w)**   
 - **[R&D Mews News](https://www.linkedin.com/company/mewsrnd/)**
-- **[Careers](https://www.mews.com/en/careers/jobs)**   
-- **[Glassdoor reviews](https://www.glassdoor.com/Overview/Working-at-Mews-EI_IE2600502.11,15.htm)**  
+- **[Benefits](https://www.mews.com/en/careers)**   
+- **[Glassdoor reviews](https://www.glassdoor.com/Overview/Working-at-Mews-EI_IE2600502.11,15.htm)**
+
+### Open Jobs
+This openings can be based remote or hybrid in Czech Republic, Netherlands, Spain, United Kingdom, Croatia, Belgium or Germany.  
+[Software Engineer - different levels](https://www.mews.com/en/careers/jobs/4211376101?gh_jid=4211376101)  
+[Senior Platform Engineer](https://www.mews.com/en/careers/jobs/4289522101?gh_jid=4289522101)  
+[Senior Security Engineer](https://www.mews.com/en/careers/jobs/4244257101?gh_jid=4244257101)  
+[Senior Data Engineer](https://www.mews.com/en/careers/jobs/4242290101?gh_jid=4242290101)  
+
 ### Mews values
 **A**mbitius ⛰️  
 **R**esilient 💪       
