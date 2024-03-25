@@ -18,15 +18,16 @@ Mews is a disruptive tech leader, pioneering the hospitality systems of the futu
 - **[Glassdoor reviews](https://www.glassdoor.com/Overview/Working-at-Mews-EI_IE2600502.11,15.htm)**
 
 ### Open Jobs
-These openings can be based remote or hybrid in Czech Republic🇨🇿, Netherlands🇳🇱, Spain🇪🇸, United Kingdom🇬🇧, Croatia🇭🇷, France🇫🇷, Belgium🇧🇪, Germany🇩🇪 & Sweden🇸🇪  
+These openings can be based remote or hybrid in Czech Republic🇨🇿, Netherlands🇳🇱, Spain🇪🇸, United Kingdom🇬🇧, Croatia🇭🇷, France🇫🇷, Belgium🇧🇪, Germany🇩🇪, Sweden🇸🇪 & Italy🇮🇹
 
-- [Software Engineer - different levels](https://www.mews.com/en/careers/jobs/4211376101?gh_jid=4211376101)  
+- [Software Engineer - different seniorities](https://www.mews.com/en/careers/jobs/4211376101?gh_jid=4211376101)  
 - [Senior Platform Engineer](https://www.mews.com/en/careers/jobs/4289522101?gh_jid=4289522101)  
 - [Senior Security Engineer](https://www.mews.com/en/careers/jobs/4244257101?gh_jid=4244257101)  
-- [Senior Data Engineer](https://www.mews.com/en/careers/jobs/4242290101?gh_jid=4242290101)  
-- [Senior Data Analyst](https://www.mews.com/en/careers/jobs/4296658101?gh_jid=4296658101)
+- [Senior Data Engineer](https://www.mews.com/en/careers/jobs/4242290101?gh_jid=4242290101)   
+- [Senior Data Analyst](https://www.mews.com/en/careers/jobs/4296658101?gh_jid=4296658101)  
+- [Data Scientist](https://www.mews.com/en/careers/jobs/4296377101?gh_jid=4296377101)  
 - [Engineering Manager](https://www.mews.com/en/careers/jobs/4254908101?gh_jid=4254908101)  
-- [Data Engineering Manager](https://www.mews.com/en/careers/jobs/4268439101?gh_jid=4268439101)  
+- [Principal Engineer - Product](https://www.mews.com/en/careers/jobs/4300419101?gh_jid=4300419101)  
 
 ### Mews values
 **A**mbitius ⛰️  
