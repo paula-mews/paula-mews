@@ -22,11 +22,9 @@ These openings can be based remote or hybrid in Czech Republic🇨🇿, Netherla
 
 - [Software Engineer - different seniorities](https://www.mews.com/en/careers/jobs/4211376101?gh_jid=4211376101)  
 - [Senior Platform Engineer](https://www.mews.com/en/careers/jobs/4289522101?gh_jid=4289522101)  
-- [Senior Security Engineer](https://www.mews.com/en/careers/jobs/4244257101?gh_jid=4244257101)  
-- [Senior Data Engineer](https://www.mews.com/en/careers/jobs/4242290101?gh_jid=4242290101)   
+- [Senior Security Engineer](https://www.mews.com/en/careers/jobs/4244257101?gh_jid=4244257101)   
 - [Senior Data Analyst](https://www.mews.com/en/careers/jobs/4296658101?gh_jid=4296658101)  
 - [Data Scientist](https://www.mews.com/en/careers/jobs/4296377101?gh_jid=4296377101)  
-- [Engineering Manager](https://www.mews.com/en/careers/jobs/4254908101?gh_jid=4254908101)  
 - [Principal Engineer - Product](https://www.mews.com/en/careers/jobs/4300419101?gh_jid=4300419101)  
 
 ### Mews values
