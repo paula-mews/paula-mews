@@ -24,7 +24,8 @@ These openings can be based remote or hybrid in Czech Republic🇨🇿, Netherla
 - [Data Analyst](https://www.mews.com/en/careers/jobs/4342577101?gh_jid=4342577101)   
 - [Senior Platform Engineer](https://www.mews.com/en/careers/jobs/4289522101?gh_jid=4289522101)      
 - [Data Engineer](https://www.mews.com/en/careers/jobs/4335515101?gh_jid=4335515101)     
-- [Senior SDET Engineer](https://www.mews.com/en/careers/jobs/4277093101?gh_jid=4277093101)   
+- [Senior SDET Engineer](https://www.mews.com/en/careers/jobs/4277093101?gh_jid=4277093101)
+- [Data Engineering Manager](https://www.mews.com/en/careers/jobs/4349000101?gh_jid=4349000101)   
 
 ### Mews values
 **A**mbitius ⛰️  
