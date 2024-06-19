@@ -20,11 +20,12 @@ Mews is a disruptive tech leader, pioneering the hospitality systems of the futu
 ### Open Jobs
 These openings can be based remote or hybrid in Czech Republic🇨🇿, Netherlands🇳🇱, Spain🇪🇸, United Kingdom🇬🇧, Croatia🇭🇷, France🇫🇷, Belgium🇧🇪, Germany🇩🇪, Sweden🇸🇪 & Italy🇮🇹
 
-- [Software Engineer - different seniorities](https://www.mews.com/en/careers/jobs/4224291101?gh_jid=4224291101)
+- [Software Engineer Europe](https://www.mews.com/en/careers/jobs/4224291101?gh_jid=4224291101)   
+- [Software Engineer US](https://www.mews.com/en/careers/jobs/4353041101?gh_jid=4353041101)   
 - [Data Analyst](https://www.mews.com/en/careers/jobs/4342577101?gh_jid=4342577101)   
 - [Senior Platform Engineer](https://www.mews.com/en/careers/jobs/4289522101?gh_jid=4289522101)      
 - [Data Engineer](https://www.mews.com/en/careers/jobs/4335515101?gh_jid=4335515101)     
-- [Senior SDET Engineer](https://www.mews.com/en/careers/jobs/4277093101?gh_jid=4277093101)
+- [Senior SDET Engineer](https://www.mews.com/en/careers/jobs/4277093101?gh_jid=4277093101)   
 - [Data Engineering Manager](https://www.mews.com/en/careers/jobs/4349000101?gh_jid=4349000101)   
 
 ### Mews values
